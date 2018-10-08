@@ -1,6 +1,6 @@
 default:
   text_skin: default
-  lang: en
+  lang: zh
   paths:
     root: /
     home: /
